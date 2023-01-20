@@ -1582,12 +1582,12 @@ JohtoGrassWildMons:
 	db 4, PIDGEY
 	; day
 	db 2, PIDGEY
-	db 3, SENTRET
-	db 3, PIDGEY
+	db 3, ELEKID
+	db 3, LARVITAR
 	db 2, SENTRET
-	db 4, RATTATA
-	db 4, PIDGEY
-	db 4, PIDGEY
+	db 4, DRATINI
+	db 4, STEELIX
+	db 4, SCIZOR
 	; nite
 	db 2, HOOTHOOT
 	db 3, HOOTHOOT
@@ -1612,15 +1612,15 @@ JohtoGrassWildMons:
 	; day
 	db 2, PIDGEY
 	db 3, CATERPIE
-	db 4, PIDGEY
-	db 4, METAPOD
-	db 4, CATERPIE
-	db 5, METAPOD
+	db 4, SQUIRTLE
+	db 4, CHARMANDER
+	db 4, BULBASAUR
+	db 5, HOUNDOUR
 	db 5, METAPOD
 	; nite
 	db 3, SPINARAK
 	db 3, RATTATA
-	db 4, HOOTHOOT
+	db 4, HOUNDOUR
 	db 4, RATTATA
 	db 4, HOOTHOOT
 	db 4, HOOTHOOT
@@ -1668,7 +1668,7 @@ JohtoGrassWildMons:
 	db 3, PIDGEY
 	db 4, CATERPIE
 	db 3, BELLSPROUT
-	db 5, METAPOD
+	db 5, LUGIA
 	db 5, CATERPIE
 	db 6, METAPOD
 	db 6, METAPOD

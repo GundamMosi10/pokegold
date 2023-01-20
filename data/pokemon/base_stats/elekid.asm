@@ -1,6 +1,6 @@
 	db ELEKID ; 239
 
-	db  45,  63,  37,  95,  65,  55
+	db  100,  95,  85,  95,  75,  75
 	;   hp  atk  def  spd  sat  sdf
 
 	db ELECTRIC, ELECTRIC ; type
